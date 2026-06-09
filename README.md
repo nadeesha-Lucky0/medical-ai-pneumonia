@@ -148,8 +148,4 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 👥 Team Notes
 
-* Divided tasks between model selection, data preparation, and web UI deployment.
-* Collaborative testing ensures robust application performance under high load.
-* Deepened knowledge of medical AI applications and end-to-end Python web stacks.
